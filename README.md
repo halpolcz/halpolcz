@@ -1,4 +1,4 @@
-👋 Hi, I’m @halpolcz
+### Hi, I’m @halpolcz
 
 I'm just a ten-year-old boy learning to program
 (and he's doing well)
